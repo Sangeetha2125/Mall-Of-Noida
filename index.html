@@ -618,14 +618,15 @@ img.mobile-view-sk{
 
 <script>
   var submitQuery=document.getElementById('SubmitQuery');
+  var submitQueryForm=document.getElementById('SubmitQueryForm');
   submitQuery.addEventListener('click',function(e) {
     e.preventDefault();
-    var submitQueryForm=document.getElementById('SubmitQueryForm');
     var senderName=document.getElementById('qSenderName').value;
     var senderMobile=document.getElementById('qMobileNo').value;
     var senderEmail=document.getElementById('qEmailID').value;
     var senderMessage=document.getElementById('qMessage').value;
     var body= 'Name: '+ senderName + '<br>Number: ' + senderMobile + '<br>Mail Id: ' + senderEmail + '<br>Message: '+ senderMessage;
+    if(senderName!='' && senderMobile!='' && senderEmail!='' && senderMessage!=''){
     Email.send({
         SecureToken : "c27f7c14-d4e4-43ed-a8f0-18d312e60167",
         To : '210701229@rajalakshmi.edu.in',
@@ -646,7 +647,7 @@ img.mobile-view-sk{
                  window.location.href="index.html";
               }
               })  
-    );
+    );}
   });
 
   var submitQuery1=document.getElementById('SubmitQuery1');
@@ -658,6 +659,7 @@ img.mobile-view-sk{
     var senderEmail1=document.getElementById('qEmailID1').value;
     var senderMessage1=document.getElementById('qMessage1').value;
     var body1= 'Name: '+ senderName1 + '<br>Number: ' + senderMobile1 + '<br>Mail Id: ' + senderEmail1 + '<br>Message: '+ senderMessage1;
+    if(senderName1!='' && senderMobile1!='' && senderEmail1!='' && senderMessage1!=''){
     Email.send({
         SecureToken : "c27f7c14-d4e4-43ed-a8f0-18d312e60167",
         To : '210701229@rajalakshmi.edu.in',
@@ -678,7 +680,7 @@ img.mobile-view-sk{
                  window.location.href="index.html";
               }
               })  
-    );  
+    );}
   });
 
   var submitQuerymobile=document.getElementById('SubmitQuerymobile');
@@ -690,6 +692,7 @@ img.mobile-view-sk{
     var senderEmailmobile=document.getElementById('qEmailIDmobile').value;
     var senderMessagemobile=document.getElementById('qMessagemobile').value;
     var bodymobile= 'Name: '+ senderNamemobile + '<br>Number: ' + senderMobilemobile + '<br>Mail Id: ' + senderEmailmobile + '<br>Message: '+ senderMessagemobile;
+    if(senderNamemobile!='' && senderMobilemobile!='' && senderEmailmobile!='' && senderMessagemobile!=''){
     Email.send({
         SecureToken : "c27f7c14-d4e4-43ed-a8f0-18d312e60167",
         To : '210701229@rajalakshmi.edu.in',
@@ -710,7 +713,7 @@ img.mobile-view-sk{
                  window.location.href="index.html";
               }
               })  
-    );  
+    );}
   });
 
   var submitQueryprice=document.getElementById('SubmitQueryprice');
@@ -722,6 +725,7 @@ img.mobile-view-sk{
     var senderEmailprice=document.getElementById('qEmailIDprice').value;
     var senderMessageprice=document.getElementById('qMessageprice').value;
     var bodyprice= 'Name: '+ senderNameprice + '<br>Number: ' + senderMobileprice + '<br>Mail Id: ' + senderEmailprice + '<br>Message: '+ senderMessageprice;
+    if(senderNameprice!='' && senderMobileprice!='' && senderEmailprice!='' && senderMessageprice!=''){
     Email.send({
         SecureToken : "c27f7c14-d4e4-43ed-a8f0-18d312e60167",
         To : '210701229@rajalakshmi.edu.in',
@@ -742,7 +746,7 @@ img.mobile-view-sk{
                  window.location.href="index.html";
               }
               })  
-    );  
+    );}
   });
 
   var submitQuery3=document.getElementById('SubmitQuery3');
@@ -754,6 +758,7 @@ img.mobile-view-sk{
     var senderEmail3=document.getElementById('qEmailID3').value;
     var senderMessage3=document.getElementById('qMessage3').value;
     var body3= 'Name: '+ senderName3 + '<br>Number: ' + senderMobile3 + '<br>Mail Id: ' + senderEmail3 + '<br>Message: '+ senderMessage3;
+    if(senderName3!='' && senderMobile3!='' && senderEmail3!='' && senderMessage3!=''){
     Email.send({
         SecureToken : "c27f7c14-d4e4-43ed-a8f0-18d312e60167",
         To : '210701229@rajalakshmi.edu.in',
@@ -774,7 +779,7 @@ img.mobile-view-sk{
                  window.location.href="index.html";
               }
               })  
-    );  
+    );}
   });
 
   </script>
