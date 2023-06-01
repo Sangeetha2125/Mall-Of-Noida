@@ -1,0 +1,577 @@
+@media only screen and (min-width:1400px) and (max-width:1920px) {
+}
+ @media only screen and (min-width:1300px) and (max-width:1400px) {
+
+}
+
+ @media (min-width:1500px) and (max-width: 1920px) {
+
+}
+
+
+ @media (max-width: 1600px) {
+.top-menu .navbar-dark .navbar-nav .nav-link {
+    color: #000;
+    font-size: 13px;
+}
+.banner-offers {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    overflow: hidden;
+    z-index: 9;
+    margin-top: 0;
+    padding-bottom: 0.5vw;
+    display: inline-block;
+    width: 28vw;
+    background-color: rgba(0,0,0,.65);
+    border-bottom-right-radius: 8px;
+    color: #fff;
+    padding: 10px 0px;
+}
+.banner-offers .location {
+    padding: 5px 15px;
+    text-align: center;
+}
+.banner-offers .possession {
+    text-align: center;
+    font-size: 18px;
+    margin: 8px 0 11px;
+    padding: 10px;
+    position: relative;
+}
+ .banner-offers .animated.bounceIn.infinite{
+    display: block;
+    animation-duration: 3s;
+    font-size: 15px !important;
+    font-weight: bold;
+    border: 2px dashed #242424;
+    color: #242424;
+    text-align: left;
+    padding: 0px 10px 1px 15px;
+}
+
+ }
+
+
+ @media (max-width: 1550px) {
+    .top-menu .navbar-dark .navbar-nav .nav-link {
+        color: #000;
+        font-size: 12px;}
+        .priceimg h4 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .hot-deals iframe{
+        height: 750px;
+    }
+    .top-menu .navbar-brand img {
+        width: 75%;
+    }
+    .modal-content h4.modal-logo {
+        font-size: 29px;
+    }
+    .priceimg h1 {
+        font-size: 18px;
+    }
+        
+ }
+ @media (max-width: 1450px) {
+    .banner-offers .animated.bounceIn.infinite{
+    display: block;
+    animation-duration: 3s;
+    font-size: 15px !important;
+    font-weight: bold;
+    border: 2px dashed #242424;
+    color: #242424;
+    text-align: left;
+    padding: 0px 10px 1px 15px;
+        line-height: 23px;
+            padding: 3px 10px 5px 15px !important;
+} 
+.banner-offers .booking_open {
+    padding: 4px 15px;
+    }
+    .banner-offers h5{
+        margin-bottom: 0.4vw;
+    }
+    ul.highlights-ul li {
+    font-size: 16px;
+    line-height: 30px;
+}
+ }
+
+ @media (max-width: 1366px) {
+    .ami-container p {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+}
+.priceimg h4 {
+    font-size: 13px;}
+.ami-container {
+    padding: 1.2vw .8vw .8vw;
+    height: 11vw;
+    margin-bottom: 0px;
+}
+.aboutsection .col-6 img{
+    margin-bottom: 25px;
+}
+.required-coll {
+    text-align: center;
+    background-color: #0E66AC;
+    color: #fff;
+    padding: 8px;
+    width: 60%;
+    margin: 0px auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.from-banner h4 {
+      text-align: center;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+
+.top-menu .navbar-dark .navbar-nav .nav-link {
+    color: #000;
+    font-size: 10px;
+}
+.top-menu .nav-item .nav-link img {
+    margin-right: 5px;
+    width: 18px;
+}
+}
+
+
+
+@media(max-width: 1366px){
+    .top_form h2 {
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+    padding: 8px;
+    background-image: -webkit-linear-gradient(left,#444,#1a1a1a);
+}
+.from-banner h4 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.form-box h4 {
+    padding: 10px 0;
+}
+.og-block li {
+    font-size: 20px;
+}
+.form_inner .form-control {
+    margin-bottom: 10px;
+}
+.top-menu .navbar-dark .navbar-nav .nav-link {
+    color: #000;
+    font-size: 14px;
+}
+.top-menu {
+    width: 100%;
+}
+.col-md-12.no-padding.orderone {
+    padding-top: 0px;
+}
+.banner-offers .possession {
+    text-align: center;
+    font-size: 16px;
+    margin: 6px 0 10px;
+    padding: 8px;
+    position: relative;
+}
+.banner-offers .animated.bounceIn.infinite{
+        padding: 0px 10px 0px 15px !important;
+}
+}
+
+@media (max-width: 767px) {
+
+.d_sm_none{
+    display:none!important;
+}
+
+.d_sm_block{
+    display: block !important;
+}
+
+#location .location_map{
+    width: 100%;
+}
+    
+}
+ @media (max-width: 991px) {
+}
+@media all and (min-width: 1025px) {
+}
+@media all and (max-width: 1024px) {
+}
+@media all and (max-width: 960px) {
+}
+@media (max-width: 1024px) {
+}
+ @media (max-width: 767px) {
+}
+@media (max-width: 1170px) {
+}
+ @media (max-width: 980px) {
+}
+@media only screen and (min-width:768px) and (max-width:900px) {
+}
+ @media only screen and (min-width:601px) and (max-width: 767px) {
+}
+@media only screen and (min-width:481px) and (max-width:600px) {
+}
+ @media only screen and (min-width: 320px) and (max-width: 767px) {
+
+.sectio-bro-btn{
+    padding: 10px !important;
+}
+#demo.carousel {
+        margin-top: 77px;
+}
+
+.banner-offers {
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+    top: 0px;
+}
+.top-menu{
+    padding: 5px 8px;
+        position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    right: 0;
+    z-index: 99;
+}
+.nabvar-manu{
+    position: absolute;
+    top: 45px;
+    z-index: 999;
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
+.mobile-responsive{
+    display: block;
+}
+.destop-responsive{
+      display: none;
+}
+.og-block{
+    display: none;
+}
+.required-coll{
+    display: none;
+}
+.enquire-btn.form {
+    font-size: 16px;
+    padding: .3vw 2vw;
+    margin: 0px auto;
+    display: block;
+}
+.pricelistdiv12{
+    padding: 15px 0px;
+}
+.top-menu .navbar-dark .navbar-nav .nav-link {
+  color: #000;
+  font-size: 16px;
+  /* text-align: center; */
+  border-bottom: 1px solid #dbe4e9;
+  padding-left: 15px;
+}
+.bg-none1 {
+    /* background: none!important; */
+    color: #fff!important;
+    border: 1px solid #fff;
+    background: rgba(0,0,0,.6);
+}
+.pro-status {
+    display: block;
+    padding: 3px;
+    font-size: 16px;
+    text-transform: uppercase;
+   /* text-shadow: 0 1px 2px #333;*/
+    color: #fff;
+    background-color:#2f2d5f;
+    text-align: center;
+}
+.banner-offers h4 {
+    display: block;
+    padding: 3px;
+       font-size: 29px;
+    line-height: 24px;
+    font-weight: 600;
+    margin: 11px 0;
+    color: #4a81c8;
+    /*text-shadow: 0 1px 1px #000;*/
+    text-transform: uppercase;
+    text-align: center;
+}
+.banner-offers h4 span{
+    padding: 3px 0;
+    font-size: 19px;
+    text-transform: capitalize;
+    line-height: 25px;
+    text-shadow: none;
+    color: #000;
+    font-weight: 100;
+}
+.banner-offers h5 {
+     background-color: none; 
+    padding: 5px 8px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    font-size: 19px;
+    text-align: center;
+    text-transform: uppercase;
+    list-style: none;
+    color: #000;
+    text-shadow: none;
+}
+.banner-offers .possession {
+    text-align: center;
+    font-size: 17px !important;
+    margin: 10px 0 15px;
+    padding: 10px;
+    position: relative;
+}
+.banner-offers .location {
+    padding: 4px 15px;
+   
+}
+.pro-tag-line{
+padding: 3px 0;
+    font-size: 15px;
+    text-transform: capitalize;
+    text-shadow: none;
+    color: #000;
+    text-align: center;
+}
+.pro-price {
+       display: block;
+    padding: 5px 0;
+    font-weight: 600;
+    font-size: 26px;
+    text-shadow: none;
+    color: #000;
+    text-align: center;
+}
+.enquire-btn {
+    font-size: 16px;
+    padding: 4px 15px;
+    margin: 0px auto;
+    display: block;
+}
+.banner-offers p {
+    margin: 8px 15px;
+    color: #000;
+    text-align: center;
+}
+.aboutsection {
+       margin: 3vw 0;
+    max-width: 100%;
+   
+}
+.aboutus h1 {
+    font-size: 28px;
+    text-align: center;
+}
+.aboutus h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.footer-widget p {
+    color: #000;
+    margin-bottom: 15px;
+    font-size: 14px;
+    text-align: justify;
+}
+.video-section {
+    display: none;
+}
+.project h4{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #000000;
+    text-align: center;
+}
+.ami-block {
+    width: 100%;
+    margin: 10px 0;
+}
+.ami img {
+    width: 100%;
+    display: block;
+    margin: 0 auto 10px;
+}
+.ami-container p {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+}
+.ami-container {
+  padding: 10px;
+    height: auto;
+    margin-bottom: 0px;
+}
+.aboutsection .col-6 img{
+    margin-bottom: 25px;
+}
+.row-cols-md-3 .my-2{
+    font-size: 16px;
+}
+.location-icon p {
+    font-size: 16px;
+    text-align: center;
+}
+.aboutusp p {
+    font-size: 16px;
+    text-align: justify;
+}
+.aboutusp h4 {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.Disclaimer p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #2f2d5f;
+    border-color: #2f2d5f;
+   
+}
+.table-striped thead{
+    display: none;
+}
+
+.table td, .table th {
+    margin: 3px 0px;
+    padding: 8px 3px;
+    /* vertical-align: top; */
+    /* border-top: 1px solid #dee2e6; */
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.head {
+position: absolute;
+    top: 10px;
+    right: -7px;
+    font-size: 9vw;
+    letter-spacing: 0;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+}
+.head.text-capitalize.virtual-title{
+     font-size: 7vw !important;
+}
+.modal-dialog.enq-modal {
+    max-width: 100%;
+    border-radius: 3px;
+}
+.modal-head {
+    display: block;
+    font-size: 24px;
+    text-transform: capitalize;
+    font-weight: 400;
+    color: #fff;
+    padding: 1.2vw 0;
+    text-align: center;
+}
+.mobile-section {
+    display: block;
+    background: #2f2f2f;
+    background: #2f2f2f;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.mobile-section .btn-success {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+    font-size: 12px;
+}
+.mobile-section a {
+    padding: 5px;
+    width: 32.4%;
+    border-radius: 0;
+}
+.nav-pills .loc-tab-link{
+    width: 100%;
+}
+.carousel-indicators.mobile-top{
+    bottom: 428px;
+}
+.mobile-tata{
+    color: #000;
+}
+.vsv-text-bg{
+    background-color: transparent;
+}
+.Disclaimer {
+    margin-bottom: 35px;
+}
+section#gallery img {
+    cursor: zoom-in;
+    margin-bottom: 15 px;
+}
+
+ul.highlights-ul li {
+    font-size: 14px;
+    padding-bottom: 2px;
+    line-height: 26px;
+}
+ul.highlights-ul {
+    padding: 0px;
+        font-size: 15px;
+    margin: 0px;
+    line-height: 1.5;
+    margin-left: 20px;
+    padding-left: 0px !important;
+    margin-top: 14px;
+}
+ul.highlights-ul.locationli li {
+        font-size: 15px;
+}
+#location h4{
+font-size: 23px;
+}
+section#floor-plan img {
+    margin-bottom: 24px;
+}
+.my-loc {
+    margin-top: 25px;
+}
+.top-menu .navbar-brand img {
+    width: 57%;
+}
+}
+
+@media(max-height:750px) and (max-width:575px){
+    .hot-deals iframe{
+        height: 780px;
+    }
+}
+
